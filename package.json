@@ -1,0 +1,24 @@
+{
+  "name": "unit-test-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addition.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DalbirSodhi/UNIT-TEST-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DalbirSodhi/UNIT-TEST-/issues"
+  },
+  "homepage": "https://github.com/DalbirSodhi/UNIT-TEST-#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
